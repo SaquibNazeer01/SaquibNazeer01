@@ -61,10 +61,18 @@
 > — **Saquib Nazeer**
 
 ---
+---
+
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding gif">
+  <img src="https://readme-typing-svg.demolab.com/?lines=🚀+Full+Stack+Dev+|+AI+Engineer+|+UI+Artist;🔥+Building+Smart+Tech+for+a+Smarter+World.&center=true&width=500&height=50&font=Fira%20Code&pause=1000&color=F75C7E&vCenter=true&size=22" alt="Typing SVG">
 </p>
-<h3 align="center">🚀 Let's Build the Future – One Line of Code at a Time!</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220">
+</p>
+
+<h3 align="center">✨ Saquib Nazeer | Code. Create. Conquer. ✨</h3>
+
 
 -----
 
