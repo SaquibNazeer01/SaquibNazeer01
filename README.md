@@ -62,8 +62,10 @@
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Crafting+Code+with+Passion...;Breathing+Life+into+Ideas.;Turning+AI+Dreams+into+Reality.&center=true&width=500&height=50&font=Fira%20Code&pause=1000&color=F75C7E&vCenter=true&size=22" alt="Typing SVG">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding gif">
 </p>
+<h3 align="center">🚀 Let's Build the Future – One Line of Code at a Time!</h3>
+
 -----
 
 🖤 *Thanks for visiting! Let's build the future together.*
