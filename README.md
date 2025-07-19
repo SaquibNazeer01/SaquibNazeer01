@@ -52,8 +52,8 @@
 ### 📫 Reach Out!
 - 🌐 Portfolio: [SaquibNazeer](https://webn.in/saquib)
 - 🌐 Website: [swiftinsurex.wuaze.com](https://swiftinsurex.wuaze.com)
-- 📧 Email: saquib.dev@gmail.com *(example)*
-- 🧑‍💼 LinkedIn: [linkedin.com/in/saquib-nazeer](https://www.linkedin.com/in/saquib-nazeer/)
+- 📧 Email: Bhatsaakib%05@gmail.com
+- 🧑‍💼 LinkedIn: [linkedin.com/in/saquib-nazeer](https://www.linkedin.com/in/SaquibNazeer01/)
 
 ---
 
