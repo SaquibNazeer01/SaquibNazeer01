@@ -1,8 +1,8 @@
 # 👨‍💻 Saquib Nazeer | 🚀 AI Engineer • Full-Stack Developer • Tech Innovator
 
-[![GitHub followers](https://img.shields.io/github/followers/saquibnazeer?label=Follow&style=social)](https://github.com/saquibnazeer)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SaquibNazeer-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/saquibnazeer/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Now-orange?style=flat&logo=firefox-browser)](https://swiftinsurex.wuaze.com)
+[![GitHub followers](https://img.shields.io/github/followers/saquibnazeer01?label=Follow&style=social)](https://github.com/SaquibNazeer01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SaquibNazeer01-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/SaquibNazeer01/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Now-orange?style=flat&logo=firefox-browser)](https://webn.in/saquib)
 
 ---
 
@@ -12,11 +12,10 @@
 - 🔹 **SmartAttendX** – A Face Recognition Attendance System with dark-themed premium UI & Tkinter magic.
 - 🔹 **Insurance Management System** – Full-stack PHP+SQLite with Twilio integration, announcements board, chatbots & more.
 - 🔹 **Gesture-Controlled Smart Classroom** – Control screens with hand/arm gestures. Built for teachers. Inspired by innovation.
-- 🔹 **Drone Assistant AI** – Voice + Object Recognition Drone that can locate and bring you physical objects!
-- 🔹 **AI Urdu Poetry Model** – Training a generative AI model on the vast universe of Urdu literature.
-- 🔹 **Hotspot-based Contact Detection** – Inspired by cricket tech: analyze object-to-object contact in videos.
-- 🔹 **Kashmir GK AI** – Personalized AI trained on **JKSSB & Kashmiri History** for competitive prep.
-
+- 🔹 **Visitor Management System** – Designed and implemented an automated visitor check-in/check-out system, improving facility security and reducing manual work by 60%.
+- 🔹 **EliteStyle** – A fully functional eCommerce platform built with PHP, featuring dynamic product and category management, secure cart and checkout functionality, and a professionally redesigned frontend for a modern shopping experience. The system supports real-time product listings, category filtering, and seamless integration between the frontend UI and backend logic.
+- 🔹 **Cricket Tournament Manager** – Built a web-based tournament management system, automating team registration and fee tracking. Integrated WhatsApp API for real-time notifications.
+- 🔹 **AI-Powered Market Prediction Tool** – Developing an AI-powered tool to predict market trends using machine learning algorithms. The tool will provide actionable insights through data visualization.
 ---
 
 ### 💼 What I Do
@@ -31,8 +30,8 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saquibnazeer&show_icons=true&theme=radical&hide=issues" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saquibnazeer&theme=radical" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaquibNazeer01&show_icons=true&theme=radical&hide=issues" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaquibNazeer01&theme=radical" width="48%">
 </p>
 
 ---
@@ -49,22 +48,12 @@
 
 ---
 
-### 🛠 Projects Worth Exploring
-| Project | Description |
-|--------|-------------|
-| [SmartAttendX 🔒](https://github.com/saquibnazeer/SmartAttendX) | Face Recognition Attendance System with CSV, Pandas, Tkinter, and Modern UI |
-| [Insurance Portal 💼](https://swiftinsurex.wuaze.com) | Web portal with login/auth, policy mgmt, Twilio WhatsApp reminder, offer zone & announcement dashboard |
-| [AI Urdu Poetry Model 📚](#) | An LLM/Transformer-style model trained to generate and analyze Urdu poetry |
-| [Gesture Classroom 🎓](#) | Control screen from anywhere in the room using your hands — no remote required |
-| [JKSSB AI Tutor 📘](#) | Personalized learning bot for Kashmiri History & JKSSB Prep |
-| [Hotspot Video Detection 🎥](#) | Cricket-style object contact detection in video feeds |
-
----
 
 ### 📫 Reach Out!
+- 🌐 Portfolio: [SaquibNazeer](https://webn.in/saquib)
 - 🌐 Website: [swiftinsurex.wuaze.com](https://swiftinsurex.wuaze.com)
 - 📧 Email: saquib.dev@gmail.com *(example)*
-- 🧑‍💼 LinkedIn: [linkedin.com/in/saquibnazeer](https://www.linkedin.com/in/saquibnazeer/)
+- 🧑‍💼 LinkedIn: [linkedin.com/in/saquib-nazeer](https://www.linkedin.com/in/saquib-nazeer/)
 
 ---
 
