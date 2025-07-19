@@ -64,7 +64,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=🚀+Full+Stack+Dev+|+AI+Engineer+|+UI+Artist;🔥+Building+Smart+Tech+for+a+Smarter+World.&center=true&width=500&height=50&font=Fira%20Code&pause=1000&color=F75C7E&vCenter=true&size=22" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=🚀+Full+Stack+Dev+|+AI+Engineer+|+UI+Artist;🔥+Building+Smart+Tech+for+a+Smarter+World.&center=true&width=500&height=50&font=Fira%20Code&pause=1000&color=F75C7E&vCenter=true&size=22" >
 </p>
 
 <p align="center">
