@@ -6,6 +6,19 @@
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=🚀+Full+Stack+Dev+|+AI+Engineer+|+UI+Artist;🔥+Building+Smart+Tech+for+a+Smarter+World.&center=true&width=500&height=50&font=Fira%20Code&pause=1000&color=F75C7E&vCenter=true&size=22" >
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220">
+</p>
+
+<h3 align="center">✨ Saquib Nazeer | Code. Create. Conquer. ✨</h3>
+
+
+-----
+
 🔥 Passionate about building intelligent, real-world AI systems that **interact with humans**, **understand context**, and **deliver stunning user experiences**.
 
 ### 👁️‍🗨️ Currently Rocking Projects
@@ -61,17 +74,9 @@
 > — **Saquib Nazeer**
 
 ---
----
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=🚀+Full+Stack+Dev+|+AI+Engineer+|+UI+Artist;🔥+Building+Smart+Tech+for+a+Smarter+World.&center=true&width=500&height=50&font=Fira%20Code&pause=1000&color=F75C7E&vCenter=true&size=22" >
+  <img src="https://readme-typing-svg.demolab.com/?lines=Crafting+Code+with+Passion...;Breathing+Life+into+Ideas.;Turning+AI+Dreams+into+Reality.&center=true&width=500&height=50&font=Fira%20Code&pause=1000&color=F75C7E&vCenter=true&size=22" alt="Typing SVG">
 </p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220">
-</p>
-
-<h3 align="center">✨ Saquib Nazeer | Code. Create. Conquer. ✨</h3>
 
 
 -----
