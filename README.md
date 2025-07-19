@@ -52,7 +52,7 @@
 ### 📫 Reach Out!
 - 🌐 Portfolio: [SaquibNazeer](https://webn.in/saquib)
 - 🌐 Website: [swiftinsurex.wuaze.com](https://swiftinsurex.wuaze.com)
-- 📧 Email: Bhatsaakib%05@gmail.com
+- 📧 Email: Bhatsaakib505@gmail.com
 - 🧑‍💼 LinkedIn: [linkedin.com/in/saquib-nazeer](https://www.linkedin.com/in/SaquibNazeer01/)
 
 ---
@@ -61,6 +61,10 @@
 > — **Saquib Nazeer**
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Crafting+Code+with+Passion...;Breathing+Life+into+Ideas.;Turning+AI+Dreams+into+Reality.&center=true&width=500&height=50&font=Fira%20Code&pause=1000&color=F75C7E&vCenter=true&size=22" alt="Typing SVG">
+</p>
+-----
 
 🖤 *Thanks for visiting! Let's build the future together.*
 
