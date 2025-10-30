@@ -2,7 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/saquibnazeer01?label=Follow&style=social)](https://github.com/SaquibNazeer01)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SaquibNazeer01-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/SaquibNazeer01/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Now-orange?style=flat&logo=firefox-browser)]([(https://personal-portfolio-domain-skb.vercel.app/)])
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Now-orange?style=flat&logo=firefox-browser)](https://personal-portfolio-domain-skb.vercel.app)
 
 ---
 
