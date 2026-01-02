@@ -21,16 +21,6 @@
 
 🔥 Passionate about building intelligent, real-world AI systems that **interact with humans**, **understand context**, and **deliver stunning user experiences**.
 
-### 👁️‍🗨️ Currently Rocking Projects
-- 🔹 **SmartAttendX** – A Face Recognition Attendance System with dark-themed premium UI & Tkinter magic.
-- 🔹 **Insurance Management System** – Full-stack PHP+SQLite with Twilio integration, announcements board, chatbots & more.
-- 🔹 **Gesture-Controlled Smart Classroom** – Control screens with hand/arm gestures. Built for teachers. Inspired by innovation.
-- 🔹 **Visitor Management System** – Designed and implemented an automated visitor check-in/check-out system, improving facility security and reducing manual work by 60%.
-- 🔹 **EliteStyle** – A fully functional eCommerce platform built with PHP, featuring dynamic product and category management, secure cart and checkout functionality, and a professionally redesigned frontend for a modern shopping experience. The system supports real-time product listings, category filtering, and seamless integration between the frontend UI and backend logic.
-- 🔹 **Cricket Tournament Manager** – Built a web-based tournament management system, automating team registration and fee tracking. Integrated WhatsApp API for real-time notifications.
-- 🔹 **AI-Powered Market Prediction Tool** – Developing an AI-powered tool to predict market trends using machine learning algorithms. The tool will provide actionable insights through data visualization.
----
-
 ### 💼 What I Do
 - 🤖 **AI/ML Engineer** — Computer Vision • NLP • Object Detection • Gesture Recognition
 - 🌐 **Full Stack Dev** — PHP, JS, Bootstrap, SQLite, ASP.NET, Razor Pages
